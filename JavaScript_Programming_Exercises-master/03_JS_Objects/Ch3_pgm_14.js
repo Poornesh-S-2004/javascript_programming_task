@@ -1,3 +1,4 @@
+//Answer:
 var questionAndAnswer = {
 	question: "What is the capital of France?",
 	answer1: "Bordeaux",

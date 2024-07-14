@@ -1,3 +1,5 @@
+//Answer:
+
 var player1;
 
 player1 = {

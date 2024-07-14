@@ -1,3 +1,4 @@
+//Answer:
 var player;
 
 player = {

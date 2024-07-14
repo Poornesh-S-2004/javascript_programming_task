@@ -1,4 +1,4 @@
-// Valid and invalid variable names
+//Answer:
 
 var thisIsFine;
 var $noProblemHere;
@@ -14,16 +14,3 @@ var yield;
 
 
 
-/* Further Adventures
- *
- * 1) Take a look at the errors in the
- *    error section of Console below.
- *
- * 2) Click Run in the console
- *    and see what errors appear there.
- *
- * 3) Delete the second block of variables
- *    one by one from the code.
- *    See how the errors change.
- *
- */

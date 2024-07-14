@@ -1,3 +1,5 @@
+//Answer:
+
 var location = {
   "city"      : "San Francisco",
   "state"     : "CA",
